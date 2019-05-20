@@ -1,0 +1,25 @@
+﻿.DefaultGridView {
+    font: "Bahnschrift Condensed";
+    text-align: center;
+    vertical-align: middle;
+}
+
+.DefaultGridViewHeader {
+    background-color: #ca0700;
+    font: "Bahnschrift Condensed";
+    font-weight: bold;
+    color: white;
+}
+
+.DefaultTableStyle{
+    width: 850px;
+}
+
+.DefaultButtonStyle {
+    background-color: #ca0700;
+    border-color: firebrick;
+    font: "Bahnschrift Condensed";
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
